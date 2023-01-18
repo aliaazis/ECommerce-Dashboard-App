@@ -1,2 +1,2 @@
 # React-Dashboard-App
-Create ad deploy admin dashboard application using React, Tailwind and JavaScript
+Create and deploy admin dashboard application using React, Tailwind and JavaScript
